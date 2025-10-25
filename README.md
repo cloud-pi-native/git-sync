@@ -1,4 +1,7 @@
 # git-sync
+
+:warning: This repository is deprecated, we moved to https://github.com/cloud-pi-native/Dockerfile.git
+
 This repository is part of DSO solutions developed for french ministry
 Custom image to sync git repositories
 
